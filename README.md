@@ -1,2 +1,25 @@
-# AboutMe
-About Me - درباره من
+<h1 align="center">سلام 👋 من علی کرباسی هستم</h1>
+<h3 align="center">برنامه نویس اندروید و طراح وب</h3>
+<br>
+<h3 align="center" dir="rtl">کمی درباره من ...</h3>
+<p align="center" dir="rtl">دانشجوی رشته نرم افزار، فعالیت خودم را از سال 1390 در زمینه برنامه نویسی اندروید آغاز کردم و از سال 1393 تاکنون، علاوه بر اندروید در زمینه طراحی وب، طراحی رابط کاربری و تولید ویدیوهای آموزشی نیز فعالیت دارم.</p>
+<br>
+<h3 align="center" dir="rtl">چه زبان هایی بلدم و با چه ابزارهایی کار میکنم !؟</h3>
+<p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<h3 align="center"><a href="https://alikarbasi.ir/portfolio.html" target="_blank">مشاهده نمونه کارهای من</a></h3>
+<br>
+<h3 align="center" dir="rtl">در شبکه های اجتماعی دنبال کنید ...</h3>
+<p align="center">
+<a href="https://twitter.com/alikarbasicom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alikarbasicom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alikarbasicom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alikarbasicom" height="30" width="40" /></a>
+<a href="https://instagram.com/alikarbasicom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alikarbasicom" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alikarbasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alikarbasi" height="30" width="40" /></a>
+</p>
+<br>
+<h3 align="center" dir="rtl">آمار گیت هاب من :)</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikarbasicom" alt="alikarbasicom" /></a></p>
+<br>
+<h2 align="center">
+<a href="https://alikarbasi.ir/saiga" target="_blank"><img src="https://alikarbasi.ir/assets/img/Saiga-Dl-Banner.png" width="50%"/></a>
+<a href="https://www.youtube.com/channel/UCKGR_7uZ0UQpDZMPfAZ_S8Q?sub_confirmation=1" target="_blank"><img src="https://alikarbasi.ir/assets/img/YouTube-Banner.png" width="50%"/></a>
+</h2>
